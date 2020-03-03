@@ -15,38 +15,31 @@ using System.Windows.Shapes;
 
 namespace The_barista
 {
-    public class CoffeMachine
-    {
-
-    }
-
-    public class Bean
-    {
-        private string brand = "";
-
-        public string Brand { get; set; }   
-    }
-
-    public class Cup
-    {
-        private string small
-    }
-
-
-
     public partial class MainWindow : Window
     {
+
+        // change to pure viritual TODO
+        class Drink
+        {
+            int iVolume = 0;
+            string sName = null;
+        }
+
+        class Espresso : Drink
+        {
+
+        }
+
+
         public MainWindow()
         {
             InitializeComponent();
             Start();
         }
 
-
-        public static void Start() 
+        public void Start()
         {
-          // kaffe().
-        }
 
+        }
     }
 }
