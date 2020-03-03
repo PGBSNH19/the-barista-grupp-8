@@ -15,9 +15,24 @@ using System.Windows.Shapes;
 
 namespace The_barista
 {
-    /// <summary>
-    /// Interaction logic for MainWindow.xaml
-    /// </summary>
+    public class CoffeMachine
+    {
+
+    }
+
+    public class Bean
+    {
+
+    }
+
+    public class Cup
+    {
+        public int CupSize = 0;
+
+    }
+
+
+
     public partial class MainWindow : Window
     {
         public MainWindow()
@@ -29,7 +44,7 @@ namespace The_barista
 
         public static void Start() 
         {
-            
+           
         }
 
     }
