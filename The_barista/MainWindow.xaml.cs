@@ -22,13 +22,14 @@ namespace The_barista
 
     public class Bean
     {
+        private string brand = "";
 
+        public string Brand { get; set; }   
     }
 
     public class Cup
     {
-        public int CupSize = 0;
-
+        private string small
     }
 
 
@@ -44,7 +45,7 @@ namespace The_barista
 
         public static void Start() 
         {
-           
+          // kaffe().
         }
 
     }
