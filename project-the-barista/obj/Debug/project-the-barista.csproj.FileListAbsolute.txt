@@ -1,0 +1,15 @@
+C:\Users\MacBook Air\source\repos\project-the-barista\project-the-barista\obj\Debug\project-the-barista.csprojAssemblyReference.cache
+C:\Users\MacBook Air\source\repos\project-the-barista\project-the-barista\obj\Debug\MainWindow.g.cs
+C:\Users\MacBook Air\source\repos\project-the-barista\project-the-barista\obj\Debug\App.g.cs
+C:\Users\MacBook Air\source\repos\project-the-barista\project-the-barista\obj\Debug\project-the-barista_MarkupCompile.cache
+C:\Users\MacBook Air\source\repos\project-the-barista\project-the-barista\obj\Debug\project-the-barista_MarkupCompile.lref
+C:\Users\MacBook Air\source\repos\project-the-barista\project-the-barista\bin\Debug\project-the-barista.exe.config
+C:\Users\MacBook Air\source\repos\project-the-barista\project-the-barista\bin\Debug\project-the-barista.exe
+C:\Users\MacBook Air\source\repos\project-the-barista\project-the-barista\bin\Debug\project-the-barista.pdb
+C:\Users\MacBook Air\source\repos\project-the-barista\project-the-barista\obj\Debug\MainWindow.baml
+C:\Users\MacBook Air\source\repos\project-the-barista\project-the-barista\obj\Debug\project-the-barista.g.resources
+C:\Users\MacBook Air\source\repos\project-the-barista\project-the-barista\obj\Debug\project_the_barista.Properties.Resources.resources
+C:\Users\MacBook Air\source\repos\project-the-barista\project-the-barista\obj\Debug\project-the-barista.csproj.GenerateResource.cache
+C:\Users\MacBook Air\source\repos\project-the-barista\project-the-barista\obj\Debug\project-the-barista.csproj.CoreCompileInputs.cache
+C:\Users\MacBook Air\source\repos\project-the-barista\project-the-barista\obj\Debug\project-the-barista.exe
+C:\Users\MacBook Air\source\repos\project-the-barista\project-the-barista\obj\Debug\project-the-barista.pdb

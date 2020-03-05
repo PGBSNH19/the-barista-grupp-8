@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace The_barista.Properties
+namespace project_the_barista.Properties
 {
 
 
